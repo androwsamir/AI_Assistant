@@ -1,2 +1,2 @@
-@py B:\ASI\04_Codes\Python\Jarvis\main.py %*
+@python main.py %*
 @pause
